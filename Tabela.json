@@ -1,0 +1,1212 @@
+[
+    {
+        "Miasto": "Nadarzyn",
+        "Kod pocztowy": "05-830",
+        "Adres": "Ul. Pruszkowska  24",
+        "pełny_adres": "Ul. Pruszkowska  24, 05-830 Nadarzyn",
+        "latitude": 52.0991985,
+        "longitude": 20.8058785,
+        "numer": 1,
+        "adres_do_geolokalizacji": "ul. Pruszkowska 24, 05-830 Nadarzyn, Polska"
+    },
+    {
+        "Miasto": "Wyszków",
+        "Kod pocztowy": "07-200",
+        "Adres": "Ul. Centralna 10",
+        "pełny_adres": "Ul. Centralna 10, 07-200 Wyszków",
+        "latitude": 52.596869,
+        "longitude": 21.4368454,
+        "numer": 2,
+        "adres_do_geolokalizacji": "ul. Centralna 10, 07-200 Wyszków, Polska"
+    },
+    {
+        "Miasto": "Wyszogród",
+        "Kod pocztowy": "09-450",
+        "Adres": "Ul. Niepodległości 10A",
+        "pełny_adres": "Ul. Niepodległości 10A, 09-450 Wyszogród",
+        "latitude": 52.3879652,
+        "longitude": 20.1930177,
+        "numer": 3,
+        "adres_do_geolokalizacji": "ul. Niepodległości 10A, 09-450 Wyszogród, Polska"
+    },
+    {
+        "Miasto": "Dobiegniew",
+        "Kod pocztowy": "66-520",
+        "Adres": "Ul. Gdańska 34",
+        "pełny_adres": "Ul. Gdańska 34, 66-520 Dobiegniew",
+        "latitude": 52.9698581,
+        "longitude": 15.7533867,
+        "numer": 4,
+        "adres_do_geolokalizacji": "ul. Gdańska 34, 66-520 Dobiegniew, Polska"
+    },
+    {
+        "Miasto": "Żelechów",
+        "Kod pocztowy": "08-430",
+        "Adres": "Ul. Długa 130B",
+        "pełny_adres": "Ul. Długa 130B, 08-430 Żelechów",
+        "latitude": 51.8107591,
+        "longitude": 21.8907043,
+        "numer": 5,
+        "adres_do_geolokalizacji": "ul. Długa 130B, 08-430 Żelechów, Polska"
+    },
+    {
+        "Miasto": "Kruszwica",
+        "Kod pocztowy": "88-150",
+        "Adres": "Ul. Zamkowa 3",
+        "pełny_adres": "Ul. Zamkowa 3, 88-150 Kruszwica",
+        "latitude": 52.6734619,
+        "longitude": 18.3237516,
+        "numer": 6,
+        "adres_do_geolokalizacji": "ul. Zamkowa 3, 88-150 Kruszwica, Polska"
+    },
+    {
+        "Miasto": "Baboszewo",
+        "Kod pocztowy": "09-130",
+        "Adres": "Ul. Odrodzenia 2A",
+        "pełny_adres": "Ul. Odrodzenia 2A, 09-130 Baboszewo",
+        "latitude": 52.68094,
+        "longitude": 20.2559,
+        "numer": 7,
+        "adres_do_geolokalizacji": "ul. Odrodzenia 2A, 09-130 Baboszewo, Polska"
+    },
+    {
+        "Miasto": "Pobiedziska",
+        "Kod pocztowy": "62-010",
+        "Adres": "Ul. Królowej Jadwigi 4",
+        "pełny_adres": "Ul. Królowej Jadwigi 4, 62-010 Pobiedziska",
+        "latitude": 52.4751559,
+        "longitude": 17.2819649,
+        "numer": 8,
+        "adres_do_geolokalizacji": "ul. Królowej Jadwigi 4, 62-010 Pobiedziska, Polska"
+    },
+    {
+        "Miasto": "Żychlin",
+        "Kod pocztowy": "99-320",
+        "Adres": "Ul. Łąkowa 3A",
+        "pełny_adres": "Ul. Łąkowa 3A, 99-320 Żychlin",
+        "latitude": 52.2421607,
+        "longitude": 19.6294006,
+        "numer": 9,
+        "adres_do_geolokalizacji": "ul. Łąkowa 3A, 99-320 Żychlin, Polska"
+    },
+    {
+        "Miasto": "Staroźreby",
+        "Kod pocztowy": "09-440",
+        "Adres": "Ul. Mostowa 2",
+        "pełny_adres": "Ul. Mostowa 2, 09-440 Staroźreby",
+        "latitude": 52.6308588,
+        "longitude": 19.9803945,
+        "numer": 10,
+        "adres_do_geolokalizacji": "ul. Mostowa 2, 09-440 Staroźreby, Polska"
+    },
+    {
+        "Miasto": "Sieraków",
+        "Kod pocztowy": "64-410",
+        "Adres": "Ul. Poznańska 40B",
+        "pełny_adres": "Ul. Poznańska 40B, 64-410 Sieraków",
+        "latitude": 52.6463335,
+        "longitude": 16.086279,
+        "numer": 11,
+        "adres_do_geolokalizacji": "ul. Poznańska 40B, 64-410 Sieraków, Polska"
+    },
+    {
+        "Miasto": "Kruszwica",
+        "Kod pocztowy": "88-150",
+        "Adres": "Ul. Kujawska 9",
+        "pełny_adres": "Ul. Kujawska 9, 88-150 Kruszwica",
+        "latitude": 52.6765825,
+        "longitude": 18.3330026,
+        "numer": 12,
+        "adres_do_geolokalizacji": "ul. Kujawska 9, 88-150 Kruszwica, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-400",
+        "Adres": "Ul. Tysiąclecia 14",
+        "pełny_adres": "Ul. Tysiąclecia 14, 09-400 Płock",
+        "latitude": 52.5541186,
+        "longitude": 19.6847126,
+        "numer": 13,
+        "adres_do_geolokalizacji": "ul. Tysiąclecia 14, 09-400 Płock, Polska"
+    },
+    {
+        "Miasto": "Środa Śląska",
+        "Kod pocztowy": "55-300",
+        "Adres": "Ul. Legnicka 26/28",
+        "pełny_adres": "Ul. Legnicka 26/28, 55-300 Środa Śląska",
+        "latitude": 51.1644134,
+        "longitude": 16.5860869,
+        "numer": 14,
+        "adres_do_geolokalizacji": "ul. Legnicka 26/28, 55-300 Środa Śląska, Polska"
+    },
+    {
+        "Miasto": "Brzoza",
+        "Kod pocztowy": "86-061",
+        "Adres": "Ul. Łabiszyńska 1",
+        "pełny_adres": "Ul. Łabiszyńska 1, 86-061 Brzoza",
+        "latitude": 53.0293298,
+        "longitude": 18.0174064,
+        "numer": 15,
+        "adres_do_geolokalizacji": "ul. Łabiszyńska 1, 86-061 Brzoza, Polska"
+    },
+    {
+        "Miasto": "Jaworzno",
+        "Kod pocztowy": "43-600",
+        "Adres": "Al. Piłsudskiego 27D",
+        "pełny_adres": "Al. Piłsudskiego 27D, 43-600 Jaworzno",
+        "latitude": 50.209924,
+        "longitude": 19.249379,
+        "numer": 16,
+        "adres_do_geolokalizacji": "ul. Al. Piłsudskiego 27D, 43-600 Jaworzno, Polska"
+    },
+    {
+        "Miasto": "Nowy Dwór Mazowiecki",
+        "Kod pocztowy": "05-160",
+        "Adres": "Ul. 29 Listopada 376",
+        "pełny_adres": "Ul. 29 Listopada 376, 05-160 Nowy Dwór Mazowiecki",
+        "latitude": 52.4360649,
+        "longitude": 20.6665609,
+        "numer": 17,
+        "adres_do_geolokalizacji": "ul. 29 Listopada 376, 05-160 Nowy Dwór Mazowiecki, Polska"
+    },
+    {
+        "Miasto": "Kraków",
+        "Kod pocztowy": "31-624",
+        "Adres": "Os. Piastów 21",
+        "pełny_adres": "Os. Piastów 21, 31-624 Kraków",
+        "latitude": 50.0974485,
+        "longitude": 20.0202348,
+        "numer": 18,
+        "adres_do_geolokalizacji": "ul. Os. Piastów 21, 31-624 Kraków, Polska"
+    },
+    {
+        "Miasto": "Łowicz",
+        "Kod pocztowy": "99-400",
+        "Adres": "Pl. Koński Targ 9",
+        "pełny_adres": "Pl. Koński Targ 9, 99-400 Łowicz",
+        "latitude": 52.1054604,
+        "longitude": 19.9479908,
+        "numer": 19,
+        "adres_do_geolokalizacji": "ul. Pl. Koński Targ 9, 99-400 Łowicz, Polska"
+    },
+    {
+        "Miasto": "Zgorzelec",
+        "Kod pocztowy": "59-900",
+        "Adres": "Ul. Warszawska 52",
+        "pełny_adres": "Ul. Warszawska 52, 59-900 Zgorzelec",
+        "latitude": 51.1428303,
+        "longitude": 15.0101014,
+        "numer": 20,
+        "adres_do_geolokalizacji": "ul. Warszawska 52, 59-900 Zgorzelec, Polska"
+    },
+    {
+        "Miasto": "Łosice",
+        "Kod pocztowy": "08-200",
+        "Adres": "Ul. Piłsudskiego 14",
+        "pełny_adres": "Ul. Piłsudskiego 14, 08-200 Łosice",
+        "latitude": 52.2134289,
+        "longitude": 22.7108886,
+        "numer": 21,
+        "adres_do_geolokalizacji": "ul. Piłsudskiego 14, 08-200 Łosice, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-410",
+        "Adres": "Ul. Wyszogrodzka 163",
+        "pełny_adres": "Ul. Wyszogrodzka 163, 09-410 Płock",
+        "latitude": 52.5355303,
+        "longitude": 19.761384,
+        "numer": 22,
+        "adres_do_geolokalizacji": "ul. Wyszogrodzka 163, 09-410 Płock, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-401",
+        "Adres": "Ul. Kolejowa 41",
+        "pełny_adres": "Ul. Kolejowa 41, 09-401 Płock",
+        "latitude": 52.5246123,
+        "longitude": 19.6756367,
+        "numer": 23,
+        "adres_do_geolokalizacji": "ul. Kolejowa 41, 09-401 Płock, Polska"
+    },
+    {
+        "Miasto": "Andrespol",
+        "Kod pocztowy": "95-020",
+        "Adres": "Ul. Rokicińska 128B",
+        "pełny_adres": "Ul. Rokicińska 128B, 95-020 Andrespol",
+        "latitude": 51.7256426,
+        "longitude": 19.6372025,
+        "numer": 24,
+        "adres_do_geolokalizacji": "ul. Rokicińska 128B, 95-020 Andrespol, Polska"
+    },
+    {
+        "Miasto": "Bydgoszcz",
+        "Kod pocztowy": "85-316",
+        "Adres": "Ul. Broniewskiego 4",
+        "pełny_adres": "Ul. Broniewskiego 4, 85-316 Bydgoszcz",
+        "latitude": 53.1179387,
+        "longitude": 17.9662435,
+        "numer": 25,
+        "adres_do_geolokalizacji": "ul. Broniewskiego 4, 85-316 Bydgoszcz, Polska"
+    },
+    {
+        "Miasto": "Zgierz",
+        "Kod pocztowy": "95-100",
+        "Adres": "Ul. Gałczyńskiego 34",
+        "pełny_adres": "Ul. Gałczyńskiego 34, 95-100 Zgierz",
+        "latitude": 51.860607,
+        "longitude": 19.3940988,
+        "numer": 26,
+        "adres_do_geolokalizacji": "ul. Gałczyńskiego 34, 95-100 Zgierz, Polska"
+    },
+    {
+        "Miasto": "Gąbin",
+        "Kod pocztowy": "09-530",
+        "Adres": "Ul. Kilińskiego 3",
+        "pełny_adres": "Ul. Kilińskiego 3, 09-530 Gąbin",
+        "latitude": 52.4028567,
+        "longitude": 19.7394613,
+        "numer": 27,
+        "adres_do_geolokalizacji": "ul. Kilińskiego 3, 09-530 Gąbin, Polska"
+    },
+    {
+        "Miasto": "Gliwice",
+        "Kod pocztowy": "44-122",
+        "Adres": "Ul. Czajki 9",
+        "pełny_adres": "Ul. Czajki 9, 44-122 Gliwice",
+        "latitude": 50.2774679,
+        "longitude": 18.6560634,
+        "numer": 28,
+        "adres_do_geolokalizacji": "ul. Czajki 9, 44-122 Gliwice, Polska"
+    },
+    {
+        "Miasto": "Kostrzyn Nad Odrą",
+        "Kod pocztowy": "66-470",
+        "Adres": "Ul. Drzewicka 1A",
+        "pełny_adres": "Ul. Drzewicka 1A, 66-470 Kostrzyn Nad Odrą",
+        "latitude": 52.5986,
+        "longitude": 14.63756,
+        "numer": 29,
+        "adres_do_geolokalizacji": "ul. Drzewicka 1A, 66-470 Kostrzyn Nad Odrą, Polska"
+    },
+    {
+        "Miasto": "Wyszków",
+        "Kod pocztowy": "07-202",
+        "Adres": "Ul. Prosta 2A",
+        "pełny_adres": "Ul. Prosta 2A, 07-202 Wyszków",
+        "latitude": 52.6004876,
+        "longitude": 21.4552534,
+        "numer": 30,
+        "adres_do_geolokalizacji": "ul. Prosta 2A, 07-202 Wyszków, Polska"
+    },
+    {
+        "Miasto": "Chorzele",
+        "Kod pocztowy": "06-330",
+        "Adres": "Ul. Witosa 3",
+        "pełny_adres": "Ul. Witosa 3, 06-330 Chorzele",
+        "latitude": 53.2605593,
+        "longitude": 20.8983236,
+        "numer": 31,
+        "adres_do_geolokalizacji": "ul. Witosa 3, 06-330 Chorzele, Polska"
+    },
+    {
+        "Miasto": "Kraków",
+        "Kod pocztowy": "31-621",
+        "Adres": "Os. Bohaterów Września 26",
+        "pełny_adres": "Os. Bohaterów Września 26, 31-621 Kraków",
+        "latitude": 50.0984773,
+        "longitude": 20.0122588,
+        "numer": 32,
+        "adres_do_geolokalizacji": "ul. Os. Bohaterów Września 26, 31-621 Kraków, Polska"
+    },
+    {
+        "Miasto": "Łódź",
+        "Kod pocztowy": "94-042",
+        "Adres": "Al. Wyszyńskiego 7A",
+        "pełny_adres": "Al. Wyszyńskiego 7A, 94-042 Łódź",
+        "latitude": 51.74796,
+        "longitude": 19.4125939,
+        "numer": 33,
+        "adres_do_geolokalizacji": "ul. Al. Wyszyńskiego 7A, 94-042 Łódź, Polska"
+    },
+    {
+        "Miasto": "Kraków",
+        "Kod pocztowy": "31-844",
+        "Adres": "Os. Kazimierzowskie 34",
+        "pełny_adres": "Os. Kazimierzowskie 34, 31-844 Kraków",
+        "latitude": 50.0915893,
+        "longitude": 20.0314067,
+        "numer": 34,
+        "adres_do_geolokalizacji": "ul. Os. Kazimierzowskie 34, 31-844 Kraków, Polska"
+    },
+    {
+        "Miasto": "Jarosław",
+        "Kod pocztowy": "37-500",
+        "Adres": "Ul. Garbarze 4",
+        "pełny_adres": "Ul. Garbarze 4, 37-500 Jarosław",
+        "latitude": 50.0207025,
+        "longitude": 22.7070361,
+        "numer": 35,
+        "adres_do_geolokalizacji": "ul. Garbarze 4, 37-500 Jarosław, Polska"
+    },
+    {
+        "Miasto": "Janikowo",
+        "Kod pocztowy": "88-160",
+        "Adres": "Ul. Klonowa 7",
+        "pełny_adres": "Ul. Klonowa 7, 88-160 Janikowo",
+        "latitude": 52.7535766,
+        "longitude": 18.1047159,
+        "numer": 36,
+        "adres_do_geolokalizacji": "ul. Klonowa 7, 88-160 Janikowo, Polska"
+    },
+    {
+        "Miasto": "Inowrocław",
+        "Kod pocztowy": "88-100",
+        "Adres": "Ul. Emilii Plater 10",
+        "pełny_adres": "Ul. Emilii Plater 10, 88-100 Inowrocław",
+        "latitude": 52.7757527,
+        "longitude": 18.2453698,
+        "numer": 37,
+        "adres_do_geolokalizacji": "ul. Emilii Plater 10, 88-100 Inowrocław, Polska"
+    },
+    {
+        "Miasto": "Warszawa",
+        "Kod pocztowy": "02-787",
+        "Adres": "Bartoka 8",
+        "pełny_adres": "Bartoka 8, 02-787 Warszawa",
+        "latitude": 52.1624194,
+        "longitude": 21.0285099,
+        "numer": 38,
+        "adres_do_geolokalizacji": "ul. Bartoka 8, 02-787 Warszawa, Polska"
+    },
+    {
+        "Miasto": "Radom",
+        "Kod pocztowy": "26-605",
+        "Adres": "Ul. Sempołowskiej 5",
+        "pełny_adres": "Ul. Sempołowskiej 5, 26-605 Radom",
+        "latitude": 51.4184121,
+        "longitude": 21.168479,
+        "numer": 39,
+        "adres_do_geolokalizacji": "ul. Sempołowskiej 5, 26-605 Radom, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-400",
+        "Adres": "Ul. Dobrzyńska 56",
+        "pełny_adres": "Ul. Dobrzyńska 56, 09-400 Płock",
+        "latitude": 52.5637225,
+        "longitude": 19.6600794,
+        "numer": 40,
+        "adres_do_geolokalizacji": "ul. Dobrzyńska 56, 09-400 Płock, Polska"
+    },
+    {
+        "Miasto": "Ostrołęka",
+        "Kod pocztowy": "07-410",
+        "Adres": "Ul. Hallera 27",
+        "pełny_adres": "Ul. Hallera 27, 07-410 Ostrołęka",
+        "latitude": 53.0827663,
+        "longitude": 21.5820689,
+        "numer": 41,
+        "adres_do_geolokalizacji": "ul. Hallera 27, 07-410 Ostrołęka, Polska"
+    },
+    {
+        "Miasto": "Gorzów Wielkopolski",
+        "Kod pocztowy": "66-400",
+        "Adres": "Ul. Walczaka 13B",
+        "pełny_adres": "Ul. Walczaka 13B, 66-400 Gorzów Wielkopolski",
+        "latitude": 52.7395679,
+        "longitude": 15.2441111,
+        "numer": 42,
+        "adres_do_geolokalizacji": "ul. Walczaka 13B, 66-400 Gorzów Wielkopolski, Polska"
+    },
+    {
+        "Miasto": "Pruchnik",
+        "Kod pocztowy": "37-560",
+        "Adres": "Ul. Markiewicza 11A",
+        "pełny_adres": "Ul. Markiewicza 11A, 37-560 Pruchnik",
+        "latitude": 49.9046934,
+        "longitude": 22.5124653,
+        "numer": 43,
+        "adres_do_geolokalizacji": "ul. Markiewicza 11A, 37-560 Pruchnik, Polska"
+    },
+    {
+        "Miasto": "Bydgoszcz",
+        "Kod pocztowy": "85-391",
+        "Adres": "Ul. Nakielska 213",
+        "pełny_adres": "Ul. Nakielska 213, 85-391 Bydgoszcz",
+        "latitude": 53.1318164,
+        "longitude": 17.9389418,
+        "numer": 44,
+        "adres_do_geolokalizacji": "ul. Nakielska 213, 85-391 Bydgoszcz, Polska"
+    },
+    {
+        "Miasto": "Zgierz",
+        "Kod pocztowy": "95-100",
+        "Adres": "Ul. Łódzka 70/79",
+        "pełny_adres": "Ul. Łódzka 70/79, 95-100 Zgierz",
+        "latitude": 51.8547276,
+        "longitude": 19.4052945,
+        "numer": 45,
+        "adres_do_geolokalizacji": "ul. Łódzka 70/79, 95-100 Zgierz, Polska"
+    },
+    {
+        "Miasto": "Warszawa",
+        "Kod pocztowy": "03-185",
+        "Adres": "Ul. Myśliborska 114",
+        "pełny_adres": "Ul. Myśliborska 114, 03-185 Warszawa",
+        "latitude": 52.3234308,
+        "longitude": 20.9498741,
+        "numer": 46,
+        "adres_do_geolokalizacji": "ul. Myśliborska 114, 03-185 Warszawa, Polska"
+    },
+    {
+        "Miasto": "Dobrzyń Nad Wisłą",
+        "Kod pocztowy": "87-610",
+        "Adres": "Pl. Wolności 20A",
+        "pełny_adres": "Pl. Wolności 20A, 87-610 Dobrzyń Nad Wisłą",
+        "latitude": 52.637816,
+        "longitude": 19.322731,
+        "numer": 47,
+        "adres_do_geolokalizacji": "ul. Pl. Wolności 20A, 87-610 Dobrzyń Nad Wisłą, Polska"
+    },
+    {
+        "Miasto": "Narol",
+        "Kod pocztowy": "37-610",
+        "Adres": "Ul. Targowa 17",
+        "pełny_adres": "Ul. Targowa 17, 37-610 Narol",
+        "latitude": 50.3441286,
+        "longitude": 23.3290453,
+        "numer": 48,
+        "adres_do_geolokalizacji": "ul. Targowa 17, 37-610 Narol, Polska"
+    },
+    {
+        "Miasto": "Węgrów",
+        "Kod pocztowy": "07-100",
+        "Adres": "Al. Siedlecka 1",
+        "pełny_adres": "Al. Siedlecka 1, 07-100 Węgrów",
+        "latitude": 52.395402,
+        "longitude": 22.0265028,
+        "numer": 49,
+        "adres_do_geolokalizacji": "ul. Al. Siedlecka 1, 07-100 Węgrów, Polska"
+    },
+    {
+        "Miasto": "Krzeszowice",
+        "Kod pocztowy": "32-065",
+        "Adres": "Ul. Floriana Św. 1",
+        "pełny_adres": "Ul. Floriana Św. 1, 32-065 Krzeszowice",
+        "latitude": 50.1313659,
+        "longitude": 19.6363783,
+        "numer": 50,
+        "adres_do_geolokalizacji": "ul. Floriana Św. 1, 32-065 Krzeszowice, Polska"
+    },
+    {
+        "Miasto": "Lubasz",
+        "Kod pocztowy": "64-720",
+        "Adres": "Ul. Bolesława Chrobrego 33F",
+        "pełny_adres": "Ul. Bolesława Chrobrego 33F, 64-720 Lubasz",
+        "latitude": 52.8487905,
+        "longitude": 16.5239723,
+        "numer": 51,
+        "adres_do_geolokalizacji": "ul. Bolesława Chrobrego 33F, 64-720 Lubasz, Polska"
+    },
+    {
+        "Miasto": "Piła",
+        "Kod pocztowy": "64-920",
+        "Adres": "Ul. Ludowa 35",
+        "pełny_adres": "Ul. Ludowa 35, 64-920 Piła",
+        "latitude": 53.1513214,
+        "longitude": 16.7546404,
+        "numer": 52,
+        "adres_do_geolokalizacji": "ul. Ludowa 35, 64-920 Piła, Polska"
+    },
+    {
+        "Miasto": "Barcin",
+        "Kod pocztowy": "88-190",
+        "Adres": "Ul. 4 Stycznia 47",
+        "pełny_adres": "Ul. 4 Stycznia 47, 88-190 Barcin",
+        "latitude": 52.8579791,
+        "longitude": 17.9429368,
+        "numer": 53,
+        "adres_do_geolokalizacji": "ul. 4 Stycznia 47, 88-190 Barcin, Polska"
+    },
+    {
+        "Miasto": "Milicz",
+        "Kod pocztowy": "56-300",
+        "Adres": "Ul. Trzebnicka 8",
+        "pełny_adres": "Ul. Trzebnicka 8, 56-300 Milicz",
+        "latitude": 51.5199592,
+        "longitude": 17.2750299,
+        "numer": 54,
+        "adres_do_geolokalizacji": "ul. Trzebnicka 8, 56-300 Milicz, Polska"
+    },
+    {
+        "Miasto": "Góra Kalwaria",
+        "Kod pocztowy": "05-530",
+        "Adres": "Ul. Pijarska 17",
+        "pełny_adres": "Ul. Pijarska 17, 05-530 Góra Kalwaria",
+        "latitude": 51.983606,
+        "longitude": 21.2155693,
+        "numer": 55,
+        "adres_do_geolokalizacji": "ul. Pijarska 17, 05-530 Góra Kalwaria, Polska"
+    },
+    {
+        "Miasto": "Choszczno",
+        "Kod pocztowy": "73-200",
+        "Adres": "Ul. Bolesława Chrobrego 1A",
+        "pełny_adres": "Ul. Bolesława Chrobrego 1A, 73-200 Choszczno",
+        "latitude": 53.1672804,
+        "longitude": 15.4191535,
+        "numer": 56,
+        "adres_do_geolokalizacji": "ul. Bolesława Chrobrego 1A, 73-200 Choszczno, Polska"
+    },
+    {
+        "Miasto": "Inowrocław",
+        "Kod pocztowy": "88-100",
+        "Adres": "Ul. Andrzeja 19",
+        "pełny_adres": "Ul. Andrzeja 19, 88-100 Inowrocław",
+        "latitude": 52.7943232,
+        "longitude": 18.2655825,
+        "numer": 57,
+        "adres_do_geolokalizacji": "ul. Andrzeja 19, 88-100 Inowrocław, Polska"
+    },
+    {
+        "Miasto": "Drobin",
+        "Kod pocztowy": "09-210",
+        "Adres": "Ul. Gospodarska 7",
+        "pełny_adres": "Ul. Gospodarska 7, 09-210 Drobin",
+        "latitude": 52.7370403,
+        "longitude": 19.9867106,
+        "numer": 58,
+        "adres_do_geolokalizacji": "ul. Gospodarska 7, 09-210 Drobin, Polska"
+    },
+    {
+        "Miasto": "Janikowo",
+        "Kod pocztowy": "88-160",
+        "Adres": "Ul. Dworcowa 9",
+        "pełny_adres": "Ul. Dworcowa 9, 88-160 Janikowo",
+        "latitude": 52.7517516,
+        "longitude": 18.1103359,
+        "numer": 59,
+        "adres_do_geolokalizacji": "ul. Dworcowa 9, 88-160 Janikowo, Polska"
+    },
+    {
+        "Miasto": "Nowa Sól",
+        "Kod pocztowy": "67-100",
+        "Adres": "Ul. Głogowska 2",
+        "pełny_adres": "Ul. Głogowska 2, 67-100 Nowa Sól",
+        "latitude": 51.7897904,
+        "longitude": 15.7196377,
+        "numer": 60,
+        "adres_do_geolokalizacji": "ul. Głogowska 2, 67-100 Nowa Sól, Polska"
+    },
+    {
+        "Miasto": "Radziejów",
+        "Kod pocztowy": "88-200",
+        "Adres": "Ul. Brzeska 25",
+        "pełny_adres": "Ul. Brzeska 25, 88-200 Radziejów",
+        "latitude": 52.6287976,
+        "longitude": 18.5311387,
+        "numer": 61,
+        "adres_do_geolokalizacji": "ul. Brzeska 25, 88-200 Radziejów, Polska"
+    },
+    {
+        "Miasto": "Lubień Kujawski",
+        "Kod pocztowy": "87-840",
+        "Adres": "Ul. 1 Maja 3",
+        "pełny_adres": "Ul. 1 Maja 3, 87-840 Lubień Kujawski",
+        "latitude": 52.404263,
+        "longitude": 19.1673482,
+        "numer": 62,
+        "adres_do_geolokalizacji": "ul. 1 Maja 3, 87-840 Lubień Kujawski, Polska"
+    },
+    {
+        "Miasto": "Kamieniec Ząbkowicki",
+        "Kod pocztowy": "57-230",
+        "Adres": "Ul. Złotostocka 13",
+        "pełny_adres": "Ul. Złotostocka 13, 57-230 Kamieniec Ząbkowicki",
+        "latitude": 50.5213861,
+        "longitude": 16.8732086,
+        "numer": 63,
+        "adres_do_geolokalizacji": "ul. Złotostocka 13, 57-230 Kamieniec Ząbkowicki, Polska"
+    },
+    {
+        "Miasto": "Inowrocław",
+        "Kod pocztowy": "88-100",
+        "Adres": "Al. Niepodległości 70A",
+        "pełny_adres": "Al. Niepodległości 70A, 88-100 Inowrocław",
+        "latitude": 52.7837967,
+        "longitude": 18.2543357,
+        "numer": 64,
+        "adres_do_geolokalizacji": "ul. Al. Niepodległości 70A, 88-100 Inowrocław, Polska"
+    },
+    {
+        "Miasto": "Inowrocław",
+        "Kod pocztowy": "88-100",
+        "Adres": "Ul. Jagiellońska 26",
+        "pełny_adres": "Ul. Jagiellońska 26, 88-100 Inowrocław",
+        "latitude": 52.7913614,
+        "longitude": 18.2766126,
+        "numer": 65,
+        "adres_do_geolokalizacji": "ul. Jagiellońska 26, 88-100 Inowrocław, Polska"
+    },
+    {
+        "Miasto": "Tarnowo Podgórne",
+        "Kod pocztowy": "62-080",
+        "Adres": "Ul. Szkolna 1E",
+        "pełny_adres": "Ul. Szkolna 1E, 62-080 Tarnowo Podgórne",
+        "latitude": 52.4654975,
+        "longitude": 16.662561,
+        "numer": 66,
+        "adres_do_geolokalizacji": "ul. Szkolna 1E, 62-080 Tarnowo Podgórne, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-407",
+        "Adres": "Ul. Otolińska 11",
+        "pełny_adres": "Ul. Otolińska 11, 09-407 Płock",
+        "latitude": 52.5479404,
+        "longitude": 19.7150531,
+        "numer": 67,
+        "adres_do_geolokalizacji": "ul. Otolińska 11, 09-407 Płock, Polska"
+    },
+    {
+        "Miasto": "Mława",
+        "Kod pocztowy": "06-500",
+        "Adres": "Ul. Zduńska 23",
+        "pełny_adres": "Ul. Zduńska 23, 06-500 Mława",
+        "latitude": 53.1082884,
+        "longitude": 20.3791512,
+        "numer": 68,
+        "adres_do_geolokalizacji": "ul. Zduńska 23, 06-500 Mława, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-402",
+        "Adres": "Ul. Padlewskiego 18C",
+        "pełny_adres": "Ul. Padlewskiego 18C, 09-402 Płock",
+        "latitude": 52.5439498,
+        "longitude": 19.7052406,
+        "numer": 69,
+        "adres_do_geolokalizacji": "ul. Padlewskiego 18C, 09-402 Płock, Polska"
+    },
+    {
+        "Miasto": "Biłgoraj",
+        "Kod pocztowy": "23-400",
+        "Adres": "Ul. Długa 67",
+        "pełny_adres": "Ul. Długa 67, 23-400 Biłgoraj",
+        "latitude": 50.5342216,
+        "longitude": 22.7231855,
+        "numer": 70,
+        "adres_do_geolokalizacji": "ul. Długa 67, 23-400 Biłgoraj, Polska"
+    },
+    {
+        "Miasto": "Warszawa",
+        "Kod pocztowy": "01-496",
+        "Adres": "Ul. Kawy 44",
+        "pełny_adres": "Ul. Kawy 44, 01-496 Warszawa",
+        "latitude": 52.260226,
+        "longitude": 20.9221946,
+        "numer": 71,
+        "adres_do_geolokalizacji": "ul. Kawy 44, 01-496 Warszawa, Polska"
+    },
+    {
+        "Miasto": "Świdnica",
+        "Kod pocztowy": "58-105",
+        "Adres": "Ul. Dąbrowskiego 6",
+        "pełny_adres": "Ul. Dąbrowskiego 6, 58-105 Świdnica",
+        "latitude": 50.8450513,
+        "longitude": 16.4603393,
+        "numer": 72,
+        "adres_do_geolokalizacji": "ul. Dąbrowskiego 6, 58-105 Świdnica, Polska"
+    },
+    {
+        "Miasto": "Zgierz",
+        "Kod pocztowy": "95-100",
+        "Adres": "Ul. Tuwima 20",
+        "pełny_adres": "Ul. Tuwima 20, 95-100 Zgierz",
+        "latitude": 51.8582848,
+        "longitude": 19.385376,
+        "numer": 73,
+        "adres_do_geolokalizacji": "ul. Tuwima 20, 95-100 Zgierz, Polska"
+    },
+    {
+        "Miasto": "Ostrołęka",
+        "Kod pocztowy": "07-410",
+        "Adres": "Ul. Sobieskiego 1",
+        "pełny_adres": "Ul. Sobieskiego 1, 07-410 Ostrołęka",
+        "latitude": 53.078512,
+        "longitude": 21.5626056,
+        "numer": 74,
+        "adres_do_geolokalizacji": "ul. Sobieskiego 1, 07-410 Ostrołęka, Polska"
+    },
+    {
+        "Miasto": "Legnica",
+        "Kod pocztowy": "59-220",
+        "Adres": "Ul. Marsa 30",
+        "pełny_adres": "Ul. Marsa 30, 59-220 Legnica",
+        "latitude": 51.2073617,
+        "longitude": 16.190323,
+        "numer": 75,
+        "adres_do_geolokalizacji": "ul. Marsa 30, 59-220 Legnica, Polska"
+    },
+    {
+        "Miasto": "Złotoryja",
+        "Kod pocztowy": "59-500",
+        "Adres": "Ul. Legnicka 41",
+        "pełny_adres": "Ul. Legnicka 41, 59-500 Złotoryja",
+        "latitude": 51.1344171,
+        "longitude": 15.9409121,
+        "numer": 76,
+        "adres_do_geolokalizacji": "ul. Legnicka 41, 59-500 Złotoryja, Polska"
+    },
+    {
+        "Miasto": "Radlin",
+        "Kod pocztowy": "44-310",
+        "Adres": "Ul. Korfantego 4",
+        "pełny_adres": "Ul. Korfantego 4, 44-310 Radlin",
+        "latitude": 50.0497771,
+        "longitude": 18.4743549,
+        "numer": 77,
+        "adres_do_geolokalizacji": "ul. Korfantego 4, 44-310 Radlin, Polska"
+    },
+    {
+        "Miasto": "Mielec",
+        "Kod pocztowy": "39-300",
+        "Adres": "Ul. Biernackiego 2",
+        "pełny_adres": "Ul. Biernackiego 2, 39-300 Mielec",
+        "latitude": 50.2972705,
+        "longitude": 21.4427048,
+        "numer": 78,
+        "adres_do_geolokalizacji": "ul. Biernackiego 2, 39-300 Mielec, Polska"
+    },
+    {
+        "Miasto": "Łódź",
+        "Kod pocztowy": "94-046",
+        "Adres": "Armii Krajowej 29",
+        "pełny_adres": "Armii Krajowej 29, 94-046 Łódź",
+        "latitude": 51.7437071,
+        "longitude": 19.4004157,
+        "numer": 79,
+        "adres_do_geolokalizacji": "ul. Armii Krajowej 29, 94-046 Łódź, Polska"
+    },
+    {
+        "Miasto": "Kłodzko",
+        "Kod pocztowy": "57-300",
+        "Adres": "Ul. Browarna 4",
+        "pełny_adres": "Ul. Browarna 4, 57-300 Kłodzko",
+        "latitude": 50.4391357,
+        "longitude": 16.6521928,
+        "numer": 80,
+        "adres_do_geolokalizacji": "ul. Browarna 4, 57-300 Kłodzko, Polska"
+    },
+    {
+        "Miasto": "Kudowa Zdrój",
+        "Kod pocztowy": "57-350",
+        "Adres": "Ul. Zdrojowa 11A",
+        "pełny_adres": "Ul. Zdrojowa 11A, 57-350 Kudowa Zdrój",
+        "latitude": 50.4375397,
+        "longitude": 16.2387027,
+        "numer": 81,
+        "adres_do_geolokalizacji": "ul. Zdrojowa 11A, 57-350 Kudowa Zdrój, Polska"
+    },
+    {
+        "Miasto": "Tarnowskie Góry",
+        "Kod pocztowy": "42-609",
+        "Adres": "Ul. Armii Krajowej 1",
+        "pełny_adres": "Ul. Armii Krajowej 1, 42-609 Tarnowskie Góry",
+        "latitude": 50.4794388,
+        "longitude": 18.8019879,
+        "numer": 82,
+        "adres_do_geolokalizacji": "ul. Armii Krajowej 1, 42-609 Tarnowskie Góry, Polska"
+    },
+    {
+        "Miasto": "Głuchołazy",
+        "Kod pocztowy": "48-340",
+        "Adres": "Ul. Kościuszki 6",
+        "pełny_adres": "Ul. Kościuszki 6, 48-340 Głuchołazy",
+        "latitude": 50.3178952,
+        "longitude": 17.3841347,
+        "numer": 83,
+        "adres_do_geolokalizacji": "ul. Kościuszki 6, 48-340 Głuchołazy, Polska"
+    },
+    {
+        "Miasto": "Dwikozy",
+        "Kod pocztowy": "27-620",
+        "Adres": "Ul. Sandomierska 106A",
+        "pełny_adres": "Ul. Sandomierska 106A, 27-620 Dwikozy",
+        "latitude": 50.7373335,
+        "longitude": 21.7909915,
+        "numer": 84,
+        "adres_do_geolokalizacji": "ul. Sandomierska 106A, 27-620 Dwikozy, Polska"
+    },
+    {
+        "Miasto": "Prudnik",
+        "Kod pocztowy": "48-200",
+        "Adres": "Ul. Damrota 11/1",
+        "pełny_adres": "Ul. Damrota 11/1, 48-200 Prudnik",
+        "latitude": 50.3216496,
+        "longitude": 17.5819138,
+        "numer": 85,
+        "adres_do_geolokalizacji": "ul. Damrota 11/1, 48-200 Prudnik, Polska"
+    },
+    {
+        "Miasto": "Łomża",
+        "Kod pocztowy": "18-400",
+        "Adres": "Ul. Wojska Polskiego 20",
+        "pełny_adres": "Ul. Wojska Polskiego 20, 18-400 Łomża",
+        "latitude": 53.1793435,
+        "longitude": 22.0645748,
+        "numer": 86,
+        "adres_do_geolokalizacji": "ul. Wojska Polskiego 20, 18-400 Łomża, Polska"
+    },
+    {
+        "Miasto": "Inowrocław",
+        "Kod pocztowy": "88-100",
+        "Adres": "Ul. Laubitza 8",
+        "pełny_adres": "Ul. Laubitza 8, 88-100 Inowrocław",
+        "latitude": 52.7992112,
+        "longitude": 18.2582573,
+        "numer": 87,
+        "adres_do_geolokalizacji": "ul. Laubitza 8, 88-100 Inowrocław, Polska"
+    },
+    {
+        "Miasto": "Olkusz",
+        "Kod pocztowy": "32-300",
+        "Adres": "Ul. Kazimierza Wielkiego 65",
+        "pełny_adres": "Ul. Kazimierza Wielkiego 65, 32-300 Olkusz",
+        "latitude": 50.2751253,
+        "longitude": 19.5764617,
+        "numer": 88,
+        "adres_do_geolokalizacji": "ul. Kazimierza Wielkiego 65, 32-300 Olkusz, Polska"
+    },
+    {
+        "Miasto": "Trześniów",
+        "Kod pocztowy": "36-212",
+        "Adres": "Trześniów 87A",
+        "pełny_adres": "Trześniów 87A, 36-212 Trześniów",
+        "latitude": 49.6462779,
+        "longitude": 21.9398684,
+        "numer": 89,
+        "adres_do_geolokalizacji": "ul. Trześniów 87A, 36-212 Trześniów, Polska"
+    },
+    {
+        "Miasto": "Połaniec",
+        "Kod pocztowy": "28-230",
+        "Adres": "Ul. Żapniowska 3",
+        "pełny_adres": "Ul. Żapniowska 3, 28-230 Połaniec",
+        "latitude": 50.4252341,
+        "longitude": 21.282556,
+        "numer": 90,
+        "adres_do_geolokalizacji": "ul. Żapniowska 3, 28-230 Połaniec, Polska"
+    },
+    {
+        "Miasto": "Poznań",
+        "Kod pocztowy": "60-780",
+        "Adres": "Ul. Grunwaldzka 280/280A",
+        "pełny_adres": "Ul. Grunwaldzka 280/280A, 60-780 Poznań",
+        "latitude": 52.4059818,
+        "longitude": 16.901576,
+        "numer": 91,
+        "adres_do_geolokalizacji": "ul. Grunwaldzka 280/280A, 60-780 Poznań, Polska"
+    },
+    {
+        "Miasto": "Prudnik",
+        "Kod pocztowy": "48-200",
+        "Adres": "Ul. Powstańców Śląskich 2",
+        "pełny_adres": "Ul. Powstańców Śląskich 2, 48-200 Prudnik",
+        "latitude": 50.3237799,
+        "longitude": 17.5893452,
+        "numer": 92,
+        "adres_do_geolokalizacji": "ul. Powstańców Śląskich 2, 48-200 Prudnik, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-402",
+        "Adres": "Al. Jachowicza 37",
+        "pełny_adres": "Al. Jachowicza 37, 09-402 Płock",
+        "latitude": 52.5486088,
+        "longitude": 19.6950196,
+        "numer": 93,
+        "adres_do_geolokalizacji": "ul. Al. Jachowicza 37, 09-402 Płock, Polska"
+    },
+    {
+        "Miasto": "Bydgoszcz",
+        "Kod pocztowy": "85-124",
+        "Adres": "Ul. Konopnickiej 28",
+        "pełny_adres": "Ul. Konopnickiej 28, 85-124 Bydgoszcz",
+        "latitude": 53.1125354,
+        "longitude": 17.9977131,
+        "numer": 94,
+        "adres_do_geolokalizacji": "ul. Konopnickiej 28, 85-124 Bydgoszcz, Polska"
+    },
+    {
+        "Miasto": "Poznań",
+        "Kod pocztowy": "61-036",
+        "Adres": "Ul. Krańcowa 62",
+        "pełny_adres": "Ul. Krańcowa 62, 61-036 Poznań",
+        "latitude": 52.409857,
+        "longitude": 16.979035,
+        "numer": 95,
+        "adres_do_geolokalizacji": "ul. Krańcowa 62, 61-036 Poznań, Polska"
+    },
+    {
+        "Miasto": "Skoczów",
+        "Kod pocztowy": "43-430",
+        "Adres": "Ul. Morcinka 20A",
+        "pełny_adres": "Ul. Morcinka 20A, 43-430 Skoczów",
+        "latitude": 49.7945038,
+        "longitude": 18.7835013,
+        "numer": 96,
+        "adres_do_geolokalizacji": "ul. Morcinka 20A, 43-430 Skoczów, Polska"
+    },
+    {
+        "Miasto": "Płońsk",
+        "Kod pocztowy": "09-100",
+        "Adres": "Ul. Grunwaldzka 58",
+        "pełny_adres": "Ul. Grunwaldzka 58, 09-100 Płońsk",
+        "latitude": 52.6321519,
+        "longitude": 20.3735181,
+        "numer": 97,
+        "adres_do_geolokalizacji": "ul. Grunwaldzka 58, 09-100 Płońsk, Polska"
+    },
+    {
+        "Miasto": "Wierzchosławice",
+        "Kod pocztowy": "33-122",
+        "Adres": "Wierzchosławice 853",
+        "pełny_adres": "Wierzchosławice 853, 33-122 Wierzchosławice",
+        "latitude": 50.0168649,
+        "longitude": 20.8620004,
+        "numer": 98,
+        "adres_do_geolokalizacji": "ul. Wierzchosławice 853, 33-122 Wierzchosławice, Polska"
+    },
+    {
+        "Miasto": "Krosno Odrzańskie",
+        "Kod pocztowy": "66-600",
+        "Adres": "Ul. Słubicka 4",
+        "pełny_adres": "Ul. Słubicka 4, 66-600 Krosno Odrzańskie",
+        "latitude": 52.0559314,
+        "longitude": 15.0951344,
+        "numer": 99,
+        "adres_do_geolokalizacji": "ul. Słubicka 4, 66-600 Krosno Odrzańskie, Polska"
+    },
+    {
+        "Miasto": "Piechowice",
+        "Kod pocztowy": "58-573",
+        "Adres": "Ul. Kryształowa 64",
+        "pełny_adres": "Ul. Kryształowa 64, 58-573 Piechowice",
+        "latitude": 50.8497572,
+        "longitude": 15.591602,
+        "numer": 100,
+        "adres_do_geolokalizacji": "ul. Kryształowa 64, 58-573 Piechowice, Polska"
+    },
+    {
+        "Miasto": "Prudnik",
+        "Kod pocztowy": "48-200",
+        "Adres": "Ul. Chopina 10",
+        "pełny_adres": "Ul. Chopina 10, 48-200 Prudnik",
+        "latitude": 50.3159572,
+        "longitude": 17.5740468,
+        "numer": 101,
+        "adres_do_geolokalizacji": "ul. Chopina 10, 48-200 Prudnik, Polska"
+    },
+    {
+        "Miasto": "Gorzów Wielkopolski",
+        "Kod pocztowy": "66-400",
+        "Adres": "Ul. Kobylogórska 21",
+        "pełny_adres": "Ul. Kobylogórska 21, 66-400 Gorzów Wielkopolski",
+        "latitude": 52.7186685,
+        "longitude": 15.2581594,
+        "numer": 102,
+        "adres_do_geolokalizacji": "ul. Kobylogórska 21, 66-400 Gorzów Wielkopolski, Polska"
+    },
+    {
+        "Miasto": "Staszów",
+        "Kod pocztowy": "28-200",
+        "Adres": "Ul. Opatowska 32",
+        "pełny_adres": "Ul. Opatowska 32, 28-200 Staszów",
+        "latitude": 50.5669414,
+        "longitude": 21.1683444,
+        "numer": 103,
+        "adres_do_geolokalizacji": "ul. Opatowska 32, 28-200 Staszów, Polska"
+    },
+    {
+        "Miasto": "Gubin",
+        "Kod pocztowy": "66-620",
+        "Adres": "Ul. Gdyńska 1A",
+        "pełny_adres": "Ul. Gdyńska 1A, 66-620 Gubin",
+        "latitude": 51.9557293,
+        "longitude": 14.7474075,
+        "numer": 104,
+        "adres_do_geolokalizacji": "ul. Gdyńska 1A, 66-620 Gubin, Polska"
+    },
+    {
+        "Miasto": "Nowa Ruda",
+        "Kod pocztowy": "57-400",
+        "Adres": "Ul. Słupiecka 10",
+        "pełny_adres": "Ul. Słupiecka 10, 57-400 Nowa Ruda",
+        "latitude": 50.5473346,
+        "longitude": 16.5512774,
+        "numer": 105,
+        "adres_do_geolokalizacji": "ul. Słupiecka 10, 57-400 Nowa Ruda, Polska"
+    },
+    {
+        "Miasto": "Rzgów",
+        "Kod pocztowy": "62-586",
+        "Adres": "Pl. Stuczyńskich 10A",
+        "pełny_adres": "Pl. Stuczyńskich 10A, 62-586 Rzgów",
+        "latitude": 52.1535227,
+        "longitude": 18.0491204,
+        "numer": 106,
+        "adres_do_geolokalizacji": "ul. Pl. Stuczyńskich 10A, 62-586 Rzgów, Polska"
+    },
+    {
+        "Miasto": "Płock",
+        "Kod pocztowy": "09-410",
+        "Adres": "Ul. Czwartaków 4",
+        "pełny_adres": "Ul. Czwartaków 4, 09-410 Płock",
+        "latitude": 52.5336,
+        "longitude": 19.7497191,
+        "numer": 107,
+        "adres_do_geolokalizacji": "ul. Czwartaków 4, 09-410 Płock, Polska"
+    },
+    {
+        "Miasto": "Wrocław",
+        "Kod pocztowy": "50-520",
+        "Adres": "Gajowa 35-37",
+        "pełny_adres": "Gajowa 35-37, 50-520 Wrocław",
+        "latitude": 51.0896942,
+        "longitude": 17.0403068,
+        "numer": 108,
+        "adres_do_geolokalizacji": "ul. Gajowa 35-37, 50-520 Wrocław, Polska"
+    },
+    {
+        "Miasto": "Sulęcin",
+        "Kod pocztowy": "69-200",
+        "Adres": "Ul. Witosa 1",
+        "pełny_adres": "Ul. Witosa 1, 69-200 Sulęcin",
+        "latitude": 52.4389156,
+        "longitude": 15.1163273,
+        "numer": 109,
+        "adres_do_geolokalizacji": "ul. Witosa 1, 69-200 Sulęcin, Polska"
+    },
+    {
+        "Miasto": "Biecz",
+        "Kod pocztowy": "38-340",
+        "Adres": "Korczyna 183",
+        "pełny_adres": "Korczyna 183, 38-340 Biecz",
+        "latitude": 49.7244336,
+        "longitude": 21.2505083,
+        "numer": 110,
+        "adres_do_geolokalizacji": "ul. Korczyna 183, 38-340 Biecz, Polska"
+    },
+    {
+        "Miasto": "Stara Kamienica",
+        "Kod pocztowy": "58-512",
+        "Adres": "Stara Kamienica 80",
+        "pełny_adres": "Stara Kamienica 80, 58-512 Stara Kamienica",
+        "latitude": 50.9168596,
+        "longitude": 15.5721391,
+        "numer": 111,
+        "adres_do_geolokalizacji": "ul. Stara Kamienica 80, 58-512 Stara Kamienica, Polska"
+    },
+    {
+        "Miasto": "Wrocław",
+        "Kod pocztowy": "53-671",
+        "Adres": "Ul. Legnicka 23/25",
+        "pełny_adres": "Ul. Legnicka 23/25, 53-671 Wrocław",
+        "latitude": 51.1131866,
+        "longitude": 17.0145155,
+        "numer": 112,
+        "adres_do_geolokalizacji": "ul. Legnicka 23/25, 53-671 Wrocław, Polska"
+    },
+    {
+        "Miasto": "Warka",
+        "Kod pocztowy": "05-660",
+        "Adres": "Ul. Armii Krajowej 3",
+        "pełny_adres": "Ul. Armii Krajowej 3, 05-660 Warka",
+        "latitude": 51.7883635,
+        "longitude": 21.1879326,
+        "numer": 113,
+        "adres_do_geolokalizacji": "ul. Armii Krajowej 3, 05-660 Warka, Polska"
+    },
+    {
+        "Miasto": "Bojanowo",
+        "Kod pocztowy": "63-940",
+        "Adres": "Ul. Dworcowa 33",
+        "pełny_adres": "Ul. Dworcowa 33, 63-940 Bojanowo",
+        "latitude": 51.7055619,
+        "longitude": 16.7475298,
+        "numer": 114,
+        "adres_do_geolokalizacji": "ul. Dworcowa 33, 63-940 Bojanowo, Polska"
+    },
+    {
+        "Miasto": "Toszek",
+        "Kod pocztowy": "44-180",
+        "Adres": "Ul. Gliwicka 30",
+        "pełny_adres": "Ul. Gliwicka 30, 44-180 Toszek",
+        "latitude": 50.454729,
+        "longitude": 18.522009,
+        "numer": 115,
+        "adres_do_geolokalizacji": "ul. Gliwicka 30, 44-180 Toszek, Polska"
+    },
+    {
+        "Miasto": "Wrocław",
+        "Kod pocztowy": "53-650",
+        "Adres": "Ul. Czarnieckiego 13",
+        "pełny_adres": "Ul. Czarnieckiego 13, 53-650 Wrocław",
+        "latitude": 51.1162227,
+        "longitude": 17.0078771,
+        "numer": 116,
+        "adres_do_geolokalizacji": "ul. Czarnieckiego 13, 53-650 Wrocław, Polska"
+    },
+    {
+        "Miasto": "Rybnik",
+        "Kod pocztowy": "44-274",
+        "Adres": "Ul. Mościckiego 3",
+        "pełny_adres": "Ul. Mościckiego 3, 44-274 Rybnik",
+        "latitude": 50.0620544,
+        "longitude": 18.4678104,
+        "numer": 117,
+        "adres_do_geolokalizacji": "ul. Mościckiego 3, 44-274 Rybnik, Polska"
+    },
+    {
+        "Miasto": "Dębska Kuźnia",
+        "Kod pocztowy": "46-053",
+        "Adres": "Ul. Wiejska 75",
+        "pełny_adres": "Ul. Wiejska 75, 46-053 Dębska Kuźnia",
+        "latitude": 50.6650071,
+        "longitude": 18.1115208,
+        "numer": 118,
+        "adres_do_geolokalizacji": "ul. Wiejska 75, 46-053 Dębska Kuźnia, Polska"
+    },
+    {
+        "Miasto": "Bierutów",
+        "Kod pocztowy": "56-420",
+        "Adres": "Rynek 20",
+        "pełny_adres": "Rynek 20, 56-420 Bierutów",
+        "latitude": 51.1240592,
+        "longitude": 17.5432157,
+        "numer": 119,
+        "adres_do_geolokalizacji": "ul. Rynek 20, 56-420 Bierutów, Polska"
+    },
+    {
+        "Miasto": "Muszyna Zdrój",
+        "Kod pocztowy": "33-370",
+        "Adres": "Ul. Piłsudskiego 11",
+        "pełny_adres": "Ul. Piłsudskiego 11, 33-370 Muszyna Zdrój",
+        "latitude": 49.3546539,
+        "longitude": 20.8959745,
+        "numer": 120,
+        "adres_do_geolokalizacji": "ul. Piłsudskiego 11, 33-370 Muszyna Zdrój, Polska"
+    },
+    {
+        "Miasto": "Żabokliki",
+        "Kod pocztowy": "08-110",
+        "Adres": "Korczewska 37",
+        "pełny_adres": "Korczewska 37, 08-110 Żabokliki",
+        "latitude": 52.1888767,
+        "longitude": 22.3256093,
+        "numer": 121,
+        "adres_do_geolokalizacji": "ul. Korczewska 37, 08-110 Żabokliki, Polska"
+    }
+]

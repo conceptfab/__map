@@ -1,0 +1,66 @@
+# Pliki Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Środowisko wirtualne
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Pliki IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Pliki projektu
+*.log
+*.npy
+
+# Ignoruj tylko konkretne pliki HTML
+mapa_trasy_drogowej.html
+mapa_trasy.html
+index.html
+cached_routes.pkl
+
+# Pliki tymczasowe
+*.tmp
+*.bak
+*.backup
+
+# Pliki konfiguracyjne
+*.cfg
+*.ini
+*.conf
+
+# Pliki danych
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+
+# Katalogi projektu
+__out/
+cache/ 
