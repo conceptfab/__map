@@ -62,7 +62,12 @@ pip install -r requirements.txt
 ## Użycie
 
 1. Przygotuj plik Excel (`Tabela.xlsx`) z adresami
-2. Uruchom skrypt:
+2. Uruchom create_JSON.py
+
+```bash
+python create_JSON.py
+```
+3. Uruchom skrypt:
 
 ```bash
 python run.py
